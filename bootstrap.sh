@@ -1,3 +1,4 @@
+sudo apt-get update
 sudo apt-get install -y flex bison build-essential csh openjdk-6-jdk libxaw7-dev
 sudo mkdir /usr/class
 sudo chown vagrant /usr/class
